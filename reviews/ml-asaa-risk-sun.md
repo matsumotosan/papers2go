@@ -23,17 +23,17 @@ Year: 2017
     * Parameters fit from AsAA tissue sample
     * Failure defined using equivalent strain from tissue damage theory
     * Pressure risk ratio (PRR) defined as P_{sys}/P_f where P_f is the failure pressure for each model
-  * ML-based estimation of rupture risk
-    * Features extracted: maximum diameter, average centerline curvature, average surface curvature, SSM parameters
-    * Support vector machine (SVM) used to classify low risk and high risk
-      * Observational features not good at predicting risk levels
-      * SSM parameters ~95% accuracy on test set
-    * Support vector regression (SVR) used to regress PRR
-      * Combining intuitive shape features with SSM parameters lowered error dramatically
-  * Limitations
-    * Constitutive parameters set and equal for all
-    * Mean thickness
-      * Addition of statistical thickness model (STM) to capture variation in thickness
-    * Effect of branches unclear
-      * Suggested remeshing branching vessel surfaces and stitching all mesh segments together
-    * Residual stresses neglected
+* ML-based estimation of rupture risk
+  * Features extracted: maximum diameter, average centerline curvature, average surface curvature, SSM parameters
+  * Support vector machine (SVM) used to classify low risk and high risk
+    * Observational features not good at predicting risk levels
+    * SSM parameters ~95% accuracy on test set
+  * Support vector regression (SVR) used to regress PRR
+    * Combining intuitive shape features with SSM parameters lowered error dramatically
+* Limitations
+  * Constitutive parameters set and equal for all
+  * Mean thickness
+    * Addition of statistical thickness model (STM) to capture variation in thickness
+  * Effect of branches unclear
+    * Suggested remeshing branching vessel surfaces and stitching all mesh segments together
+  * Residual stresses neglected

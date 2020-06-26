@@ -13,4 +13,4 @@ features and numerically predicted risk of ascending aortic aneurysm [[Paper](ht
 ## Mathematics
 - [ ] Dynamic mode decomposition for multiscale nonlinear physics [[Paper](https://arxiv.org/pdf/1903.12480.pdf)][[Review]()]
 
-- [ ] Discovering governing equations from data by sparse identification of nonlinear dynamical systems[[Paper](https://www.pnas.org/content/113/15/3932)][[Review]()]
+- [ ] Discovering governing equations from data by sparse identification of nonlinear dynamical systems[[Paper](https://www.pnas.org/content/pnas/113/15/3932.full.pdf)][[Review]()]

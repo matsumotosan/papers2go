@@ -29,8 +29,8 @@ Year: 2016
 
   * Solve sparse regression problem to determine coefficients for Ξ (LASSO)
     * Sparsity forces only critical terms to be kept
+    
   <p align="center">
-
     <img src="https://github.com/matsumotosan/papers2go/blob/master/img/math/sindy/sparse_regression.png" />
   </p>
 

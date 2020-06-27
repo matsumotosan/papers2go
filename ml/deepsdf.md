@@ -36,3 +36,26 @@ Year: 2019
 <p align="center">
   <img src="https://github.com/matsumotosan/papers2go/blob/master/img/ml/deepsdf/autodecoder.png" />
 </p>
+
+* Auto-decoder formulation (full formulation included in appendix of paper)
+  * Training: find network parameters θ and latent (shape) codes that jointly minimize cost function
+    * First term: network loss function
+    * Second term: enforce spherical covariance
+
+<p align="center">
+  <img src="https://github.com/matsumotosan/papers2go/blob/master/img/ml/deepsdf/cost.png" />
+</p>
+
+  * Inference: MAP estimation of latent (shape) code given samples of SDF for a shape
+
+<p align="center">
+  <img src="https://github.com/matsumotosan/papers2go/blob/master/img/ml/deepsdf/inference.png" />
+</p>
+
+    * This probabilistic formulation allows for shape completion
+      * Find shape code that best explains the SDF values for a partial set of observed points
+* DeepSDF able to outperform other shape representation methods in three ways: representing known 3D shapes, representing unknown 3D shapes, completing shapes based on partial observations
+
+<p align="center">
+  <img src="https://github.com/matsumotosan/papers2go/blob/master/img/ml/deepsdf/table.png" />
+</p>

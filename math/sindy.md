@@ -1,6 +1,8 @@
 # Discovering governing equations from data by sparse identification of nonlinear dynamical systems
 Authors: Steven L. Brunton, Joshua L. Proctor, J. Nathan Kutz
+
 Journal: Proceedings of the National Academic of Sciences of the United States of America
+
 Year: 2016
 
 ## Summary

@@ -1,6 +1,8 @@
 # A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm
 Authors: Liang Liang, Minliang Liu, Caitlin Martin, John A. Elefteriades, Wei Sun
+
 Journal: Biomechanics and Modeling in Mechanobiology
+
 Year: 2017
 
 ## Summary

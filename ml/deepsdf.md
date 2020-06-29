@@ -43,8 +43,8 @@ Year: 2019
   * Training: find network parameters θ and latent (shape) codes that jointly minimize cost function
     * First term: network loss function
     * Second term: enforce spherical covariance
-      * Probabilistic formulation allows for shape completion
-        * Find shape code that best explains the SDF values for a partial set of observed points
+  * Probabilistic formulation allows for shape completion
+    * Find shape code that best explains the SDF values for a partial set of observed points
 
 <p align="center">
   <img src="https://github.com/matsumotosan/papers2go/blob/master/img/ml/deepsdf/cost.png" />

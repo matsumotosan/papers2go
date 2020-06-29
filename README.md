@@ -7,7 +7,9 @@ features and numerically predicted risk of ascending aortic aneurysm [[Paper](ht
 
 - [x] Estimation of in vivo constitutive parameters of the aortic wall using a machine learning approach[[Paper](https://www.sciencedirect.com/science/article/pii/S0045782518306297)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/ml-param-est-sun.md)]
 
-- [ ] A computational analysis of different endograft designs for Zone 0 aortic arch repair[[Paper](http://bloodflow.engin.umich.edu/wp-content/uploads/sites/165/2018/03/vanBakel_EJCTS_A-computational-analysis-of-different-endograft-designs.pdf)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/zone0-arch-repair-figueroa.md)]
+- [x] A computational analysis of different endograft designs for Zone 0 aortic arch repair[[Paper](http://bloodflow.engin.umich.edu/wp-content/uploads/sites/165/2018/03/vanBakel_EJCTS_A-computational-analysis-of-different-endograft-designs.pdf)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/zone0-arch-repair-figueroa.md)]
+
+- [ ] Estimation of Three- and Four-Element Windkessel Parameters Using Subspace Model Identification[[Paper](https://pubmed.ncbi.nlm.nih.gov/20172779/)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/windkessel-smi-kind.md)]
 
 - [ ] Effect of Wall Elasticity on Hemodynamics and Wall Shear Stress in Patient-Specific Simulations in the Coronary Arteries[[Paper](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/142/2/024503/726830/Effect-of-Wall-Elasticity-on-Hemodynamics-and-Wall?redirectedFrom=fulltext)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/elasticity-wss-marsden.md)]
 

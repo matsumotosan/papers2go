@@ -18,11 +18,6 @@ Year: 2018
 * Patient-specific CFD model
   * Geometry from patient with saccular aortic arch aneurysm
   * Built preoperative model that matches patient-specific measurements
-
-  <p align="center">
-    <img src="https://github.com/matsumotosan/papers2go/blob/master/img/eng/zone0-arch-repair-figueroa/geometries.png" />
-  </p>
-
   * Modified preoperative model to model 4 postoperative geometries for various endograft designs
   * All geometries run with same inflow and outflow BCs
     * Inflow: from echocardiography data

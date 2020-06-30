@@ -11,7 +11,7 @@ features and numerically predicted risk of ascending aortic aneurysm [[Paper](ht
 
 - [ ] Estimation of Three- and Four-Element Windkessel Parameters Using Subspace Model Identification[[Paper](https://pubmed.ncbi.nlm.nih.gov/20172779/)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/windkessel-smi-kind.md)]
 
-- [ ] Effect of Wall Elasticity on Hemodynamics and Wall Shear Stress in Patient-Specific Simulations in the Coronary Arteries[[Paper](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/142/2/024503/726830/Effect-of-Wall-Elasticity-on-Hemodynamics-and-Wall?redirectedFrom=fulltext)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/elasticity-wss-marsden.md)]
+- [x] Effect of Wall Elasticity on Hemodynamics and Wall Shear Stress in Patient-Specific Simulations in the Coronary Arteries[[Paper](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/142/2/024503/726830/Effect-of-Wall-Elasticity-on-Hemodynamics-and-Wall?redirectedFrom=fulltext)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/elasticity-wss-marsden.md)]
 
 - [ ] 4D Flow MRI Estimation of Boundary Conditions for Patient Specific Cardiovascular Simulation[[Paper](https://link.springer.com/article/10.1007/s10439-019-02285-2)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/mri-bc-estimation-roldan-alzate.md)]
 

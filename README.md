@@ -19,6 +19,12 @@ features and numerically predicted risk of ascending aortic aneurysm [[Paper](ht
 
 - [ ] Computational Simulations for Aortic Coarctation: Representative Results From a Sampling of Patients [[Paper](https://pubmed.ncbi.nlm.nih.gov/22010743/)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/simul-aortic-coarc-taylor.md)]
 
+- [ ] Probabilistic noninvasive prediction of wall properties of abdominal aortic aneurysms using Bayesian regression [[Paper]()][[Review](https://pubmed.ncbi.nlm.nih.gov/22010743/)][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/aaa-bayesian-regression.md)]
+
+- [x] Simulation of blood flow in human aorta with emphasis on outlet boundary conditions [[Paper]()][[Review]()]
+
+- [x] On the choice of outlet boundary conditions for patient-specific analysis of aortic flow using computational fluid dynamics [[Paper]()][[Review](https://github.com/matsumotosan/papers2go/blob/master/eng/outlet-bc-choice-pirola.md)]
+
 ## Machine Learning
 - [x] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation [[Paper](https://arxiv.org/pdf/1901.05103.pdf)][[Review](https://github.com/matsumotosan/papers2go/blob/master/ml/deepsdf.md)][[GitHub](https://github.com/facebookresearch/DeepSDF)]
 
